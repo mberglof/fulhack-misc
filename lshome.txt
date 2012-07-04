@@ -1,0 +1,13 @@
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+VM Share
+VirtualBox VMs
+bin
+config
+git
