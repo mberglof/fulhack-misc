@@ -1,0 +1,13 @@
+Overview:
+
+Scripts, templates and generators for logrotate scripts.
+
+Generator accepts 1 arg ($VHOST)
+
+
+Scripts should rotate files daily
+
+File name is <basename>.log-YYYY-MM-DD.<compress-ext>
+
+
+For nginx it's currently: access.log-20120701.bz2
